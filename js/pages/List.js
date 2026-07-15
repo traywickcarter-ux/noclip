@@ -115,13 +115,13 @@ export default {
                         You must  use GDR for the viewing the accuracy abnd death count, but you can also use eclipse if on mobile or you prefer it
                     </p>
                     <p>
-                        The levels must b only possible when using noclip
+                        The levels must be only possible when using noclip
                     </p>
                     <p>
                         Levels must have showcase
                     </p>
                     <p>
-                        the password is the song not the password for the level
+                        the verifier is the song not the password for the level
                     </p>
                 </div>
             </div>
