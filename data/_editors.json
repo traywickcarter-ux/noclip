@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Carter Traywick",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "kyro",
+        "link": "https://www.youtube.com/@squeeg-gaming"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "AstroGuy",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "role": "admin",
+        "name": "radiant",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ap mars",
+        "link": "https://www.youtube.com/@wZoinkoff"
     }
 ]
